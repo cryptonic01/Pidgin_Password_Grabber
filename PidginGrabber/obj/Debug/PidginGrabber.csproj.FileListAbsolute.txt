@@ -1,0 +1,5 @@
+E:\Project\PidginGrabber\PidginGrabber\bin\Debug\PidginGrabber.exe
+E:\Project\PidginGrabber\PidginGrabber\bin\Debug\PidginGrabber.pdb
+E:\Project\PidginGrabber\PidginGrabber\obj\Debug\PidginGrabber.csproj.CoreCompileInputs.cache
+E:\Project\PidginGrabber\PidginGrabber\obj\Debug\PidginGrabber.exe
+E:\Project\PidginGrabber\PidginGrabber\obj\Debug\PidginGrabber.pdb
